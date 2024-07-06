@@ -1,0 +1,15 @@
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.Model\bin\Debug\HRMSystem.Model.dll
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.Model\bin\Debug\HRMSystem.Model.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.Model\obj\Debug\HRMSystem.Model.csprojResolveAssemblyReference.cache
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.Model\obj\Debug\HRMSystem.Model.dll
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.Model\obj\Debug\HRMSystem.Model.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.Model\bin\Debug\HRMSystem.Model.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.Model\bin\Debug\HRMSystem.Model.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.Model\obj\Debug\HRMSystem.Model.csprojResolveAssemblyReference.cache
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.Model\obj\Debug\HRMSystem.Model.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.Model\obj\Debug\HRMSystem.Model.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.Model\bin\Debug\HRMSystem.Model.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.Model\bin\Debug\HRMSystem.Model.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.Model\obj\Debug\HRMSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.Model\obj\Debug\HRMSystem.Model.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.Model\obj\Debug\HRMSystem.Model.pdb

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A36611D4-A2B0-4ACD-8406-6A4F39CCEC62}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HRMSystem2023Pan</RootNamespace>
+    <AssemblyName>HRMSystem2023Pan</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonHelper.cs" />
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdduser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdduser.Designer.cs">
+      <DependentUpon>FormAdduser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChangePwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChangePwd.Designer.cs">
+      <DependentUpon>FormChangePwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteUser.Designer.cs">
+      <DependentUpon>FormDeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDepartmentchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDepartmentchange.Designer.cs">
+      <DependentUpon>FormDepartmentchange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDepartmentsearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDepartmentsearch.Designer.cs">
+      <DependentUpon>FormDepartmentsearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmpadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmpadd.Designer.cs">
+      <DependentUpon>FormEmpadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmployeeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmployeeList.Designer.cs">
+      <DependentUpon>FormEmployeeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLockUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLockUser.Designer.cs">
+      <DependentUpon>FormLockUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogQuery.Designer.cs">
+      <DependentUpon>FormLogQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formmovedata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formmovedata.Designer.cs">
+      <DependentUpon>Formmovedata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalary.Designer.cs">
+      <DependentUpon>FormSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalaryExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalaryExport.Designer.cs">
+      <DependentUpon>FormSalaryExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSearchUser.Designer.cs">
+      <DependentUpon>FormSearchUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAdduser.resx">
+      <DependentUpon>FormAdduser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChangePwd.resx">
+      <DependentUpon>FormChangePwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeleteUser.resx">
+      <DependentUpon>FormDeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDepartmentchange.resx">
+      <DependentUpon>FormDepartmentchange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDepartmentsearch.resx">
+      <DependentUpon>FormDepartmentsearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmpadd.resx">
+      <DependentUpon>FormEmpadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmployeeList.resx">
+      <DependentUpon>FormEmployeeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLockUser.resx">
+      <DependentUpon>FormLockUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogQuery.resx">
+      <DependentUpon>FormLogQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formmovedata.resx">
+      <DependentUpon>Formmovedata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalary.resx">
+      <DependentUpon>FormSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalaryExport.resx">
+      <DependentUpon>FormSalaryExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchUser.resx">
+      <DependentUpon>FormSearchUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\CommonHelper.datasource" />
+    <None Include="Properties\DataSources\DataSet1.datasource" />
+    <None Include="Properties\DataSources\DataSet1.DataTable1DataTable.datasource" />
+    <None Include="Properties\DataSources\DataSet1.DataTable1Row.datasource" />
+    <None Include="Properties\DataSources\DataSet1.DataTable1RowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\DataSet1.DataTable1RowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\FormDepartmentchange.datasource" />
+    <None Include="Properties\DataSources\FormDepartmentsearch.datasource" />
+    <None Include="Properties\DataSources\FormEmpadd.datasource" />
+    <None Include="Properties\DataSources\FormEmployeeList.datasource" />
+    <None Include="Properties\DataSources\FormLogin.datasource" />
+    <None Include="Properties\DataSources\FormLogQuery.datasource" />
+    <None Include="Properties\DataSources\FormMain.datasource" />
+    <None Include="Properties\DataSources\Formmovedata.datasource" />
+    <None Include="Properties\DataSources\FormSalary.datasource" />
+    <None Include="Properties\DataSources\HRMSystem2023Pan.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\HRMSystem2023Pan.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HRMSystem.BLL\HRMSystem.BLL.csproj">
+      <Project>{c43d29e1-2fa7-4559-be9d-a72f0b43ff95}</Project>
+      <Name>HRMSystem.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRMSystem.DAL\HRMSystem.DAL.csproj">
+      <Project>{be4a153f-e421-4d1c-b069-62b758ffcabe}</Project>
+      <Name>HRMSystem.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRMSystem.Model\HRMSystem.Model.csproj">
+      <Project>{c2e2e497-f4ea-4b1d-bb1a-288e7c47fe54}</Project>
+      <Name>HRMSystem.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

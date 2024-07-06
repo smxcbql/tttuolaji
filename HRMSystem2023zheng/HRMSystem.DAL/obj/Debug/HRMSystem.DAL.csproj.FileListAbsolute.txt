@@ -1,0 +1,28 @@
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.DAL\bin\Debug\HRMSystem.DAL.dll
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.DAL\bin\Debug\HRMSystem.DAL.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.DAL\bin\Debug\HRMSystem.Model.dll
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.DAL\bin\Debug\HRMSystem.Model.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.csprojResolveAssemblyReference.cache
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.dll
+E:\DotProjects\HRMSystem2023Pan\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.DAL.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.Model.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.Model.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.csprojResolveAssemblyReference.cache
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.DAL.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.DAL.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.Model.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.Model.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.csprojResolveAssemblyReference.cache
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.pdb
+E:\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.DAL.dll
+E:\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.DAL.pdb
+E:\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.Model.dll
+E:\HRMSystem2023Pan第四次课\HRMSystem.DAL\bin\Debug\HRMSystem.Model.pdb
+E:\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.csprojResolveAssemblyReference.cache
+E:\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.dll
+E:\HRMSystem2023Pan第四次课\HRMSystem.DAL\obj\Debug\HRMSystem.DAL.pdb

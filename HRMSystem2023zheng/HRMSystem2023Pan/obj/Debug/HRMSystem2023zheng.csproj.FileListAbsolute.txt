@@ -1,0 +1,159 @@
+E:\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe.config
+E:\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.exe
+E:\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe.config
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.exe
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.dll
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.dll
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.dll
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.pdb
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csprojResolveAssemblyReference.cache
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogin.resources
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormMain.resources
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Properties.Resources.resources
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csproj.GenerateResource.Cache
+E:\DotProjects\HRMSystem2023Pan\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogQuery.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe.config
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.exe
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csprojResolveAssemblyReference.cache
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogin.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogQuery.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormMain.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Properties.Resources.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csproj.GenerateResource.Cache
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Formmovedata.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe.config
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.exe
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.pdb
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csprojResolveAssemblyReference.cache
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogin.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogQuery.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormMain.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Formmovedata.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Properties.Resources.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csproj.GenerateResource.Cache
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormEmployeeList.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormEmployeeList.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormEmpadd.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormEmpadd.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe.config
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.exe
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.pdb
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.pdb
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.dll
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.dll
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.dll
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.pdb
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.pdb
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.pdb
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csprojResolveAssemblyReference.cache
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormEmpadd.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormEmployeeList.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogin.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogQuery.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormMain.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Formmovedata.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Properties.Resources.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csproj.GenerateResource.Cache
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDepartmentchange.resources
+E:\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDepartmentsearch.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\NPOI.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDepartmentchange.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDepartmentsearch.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\NPOI.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDepartmentchange.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDepartmentsearch.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormSalary.resources
+E:\DotProjects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormSalary.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormSalaryExport.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\RdlCompile.cache
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\RdlCompile.compiled
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormAdduser.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDeleteUser.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLockUser.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormSearchUser.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023Pan第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormChangePwd.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe.config
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.exe
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.exe
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem2023Pan.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\NPOI.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\HRMSystem.Model.pdb
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csprojResolveAssemblyReference.cache
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormAdduser.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormChangePwd.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDeleteUser.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDepartmentchange.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormDepartmentsearch.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormEmpadd.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormEmployeeList.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLockUser.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogin.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormLogQuery.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormMain.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Formmovedata.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormSalary.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormSalaryExport.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.FormSearchUser.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023Pan.Properties.Resources.resources
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\HRMSystem2023zheng.csproj.GenerateResource.Cache
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\RdlCompile.cache
+C:\Users\zheng\Documents\Visual Studio 2015\Projects\HRMSystem2023zheng第四次课\HRMSystem2023Pan\obj\Debug\RdlCompile.compiled
